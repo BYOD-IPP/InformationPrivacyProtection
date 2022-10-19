@@ -1,0 +1,17 @@
+body{background-color:powderblue;
+	font-family:arial;
+	
+	font-size: 25px;
+    color: black;
+         
+
+}
+
+ol,ul,li{
+	list-style-type:disc;
+}
+
+.center { display: block; 
+		margin-left: auto; 
+		margin-right: auto; 
+		width: 50%; }
